@@ -3,7 +3,7 @@ Flask==0.12.2
 Flask-Assets==0.12
 Jinja2==2.9.6
 MarkupSafe==1.0
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 certifi==2017.4.17
 chardet==3.0.3
 click==6.7
